@@ -13,3 +13,5 @@ Actions.
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://veronikadmitrieva1402-spec.github.io/devops-docs/`.
+
+Ссылка [новая ссылка](missing-page.md);
