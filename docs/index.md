@@ -14,4 +14,3 @@ Actions.
 
 Адрес будущего сайта: `https://veronikadmitrieva1402-spec.github.io/devops-docs/`.
 
-Ссылка [новая ссылка](missing-page.md);
